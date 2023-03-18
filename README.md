@@ -1,2 +1,2 @@
-# biostats
+# Biostatistics
 Files for biostatistics
